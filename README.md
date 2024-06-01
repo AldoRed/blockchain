@@ -2,4 +2,4 @@
 
 Notes course of Blockchain
 
-Made by the proffessor Luigi Telesca 2024 - Università di Trento
+Course made by the proffessor Luigi Telesca 2024 - Università di Trento
